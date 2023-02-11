@@ -80,6 +80,15 @@
     "sharp": "0.31.2",
     "webpack": "5.75.0"
   },
+  
+  "resolutions": {
+    "@apollo/client": "3.7.2",
+    "@lingui/cli": "3.15.0",
+    "@lingui/core": "3.15.0",
+    "@lingui/react": "3.15.0",
+    "@lingui/conf": "3.15.0",
+    "@lingui/babel-plugin-extract-messages": "3.15.0"
+  },
   "devDependencies": {
     "@graphcommerce/eslint-config-pwa": "5.1.1",
     "@graphcommerce/prettier-config-pwa": "5.1.1",
